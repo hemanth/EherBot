@@ -1,0 +1,15 @@
+{
+  "name": "hodlbot",
+  "version": "0.0.0",
+  "description": "ETH Bot for telegram",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "isomorphic-fetch": "^2.2.1",
+    "node-telegram-bot-api": "^0.27.1"
+  }
+}
